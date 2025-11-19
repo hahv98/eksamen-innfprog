@@ -1,0 +1,92 @@
+const subjects = [
+    {
+        fornavn: "Kari",
+        etternavn: "Lunde",
+        kontor: "K1-201",
+        epost: "kari.lunde@hiof.no",
+    },
+    {
+        fornavn: "Marius",
+        etternavn: "Helstad",
+        kontor: "K1-204",
+        epost: "marius.helstad@hiof.no",
+    },
+    {
+        fornavn: "Siv",
+        etternavn: "Omland",
+        kontor: "K2-102",
+        epost: "siv.omland@hiof.no",
+    },
+    {
+        fornavn: "Henrik",
+        etternavn: "Støen",
+        kontor: "K1-209",
+        epost: "henrik.stoen@hiof.no",
+    },
+    {
+        fornavn: "Elin",
+        etternavn: "Røed",
+        kontor: "K1-211",
+        epost: "elin.roed@hiof.no",
+    },
+    {
+        fornavn: "Tor",
+        etternavn: "Arnesen",
+        kontor: "K1-204",
+        epost: "tor.arnesen@hiof.no",
+    },
+    {
+        fornavn: "Annika",
+        etternavn: "Skår",
+        kontor: "K3-102",
+        epost: "annika.skaar@hiof.no",
+    },
+    {
+        fornavn: "Jonas",
+        etternavn: "Berström",
+        kontor: "K2-108",
+        epost: "jonas.bergstrom@hiof.no",
+    },
+    {
+        fornavn: "Maria",
+        etternavn: "Heggen",
+        kontor: "K1-111",
+        epost: "maria.heggen@hiof.no",
+    },
+    {
+        fornavn: "Eirik",
+        etternavn: "Dahlgren",
+        kontor: "K2-303",
+        epost: "eirik.dahlgren@hiof.no",
+    },
+    {
+        fornavn: "Nora",
+        etternavn: "Vik",
+        kontor: "K2-107",
+        epost: "nora.vik@hiof.no",
+    },
+    {
+        fornavn: "Oliver",
+        etternavn: "Ravn",
+        kontor: "K3-305",
+        epost: "oliver.ravn@hiof.no",
+    },
+    {
+        fornavn: "Selma",
+        etternavn: "Grundt",
+        kontor: "K2-310",
+        epost: "selma.grundt@hiof.no",
+    },
+    {
+        fornavn: "Thomas",
+        etternavn: "Wingård",
+        kontor: "K3-301",
+        epost: "thomas.wingaard@hiof.no",
+    },
+    {
+        fornavn: "Lina",
+        etternavn: "Hofseth",
+        kontor: "K3-306",
+        epost: "lina.hofseth@hiof.no",
+    },
+]
